@@ -9,7 +9,8 @@ This project allows users to sign in and access a repository screen. Clicking on
 ### 1. Clone the Repository
 git clone <repository-url>
 
-### 2. Install the dependenciew
+### 2. Install the dependencies
+cd CodeAnt-AI
 npm install
 
 ### 3. Start the project
