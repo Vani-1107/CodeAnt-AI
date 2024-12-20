@@ -11,6 +11,7 @@ git clone <repository-url>
 
 ### 2. Install the dependencies
 cd CodeAnt-AI
+
 npm install
 
 ### 3. Start the project
